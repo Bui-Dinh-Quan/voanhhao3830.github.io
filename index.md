@@ -24,17 +24,17 @@
 
 ### My skill
 
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" height ="50px" width = "50px" border-radius="50%"></img> 
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" height ="50px" width = "50px" ></img> 
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" height ="50px" width = "50px" border-radius="50%">
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" height ="50px" width = "50px" >
 
 ### Contact me
 
 <a href="https://www.facebook.com/Heno0602/" > 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" height ="50px" width = "50px"></img></a>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" height ="50px" width = "50px"></a>
 <a href="https://www.instagram.com/_hao3830/">
-  <img src ="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" height = "50px" width = "50px"></img> </a>
+  <img src ="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" height = "50px" width = "50px"> </a>
 <a href="https://www.linkedin.com/in/hào-võ-5770b3227/">
-<img src ="https://na.panasonic.com/ca/sites/default/files/2018-10/linkedin-icon.png" height = "50px" width = "50px"></img>
+<img src ="https://na.panasonic.com/ca/sites/default/files/2018-10/linkedin-icon.png" height = "50px" width = "50px">
 </a>
 
 

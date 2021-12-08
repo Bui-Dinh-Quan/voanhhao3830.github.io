@@ -24,8 +24,8 @@
 
 ### My skill
 
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" height ="50px" width = "50px" border-radius="50%">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" height ="50px" width = "50px" >
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" height ="50px" width = "50px">
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height ="50px" width = "50px">
 
 ### Contact me
 

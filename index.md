@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome my profile website!
 
-You can use the [editor on GitHub](https://github.com/voanhhao3830/introduce/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+<img align="right" height="320px" src="https://lh3.googleusercontent.com/Zy34lSjvWeYN-3GyWZD49AWAbLO83_ZrGWRLODpyHwyu8q1WTpqRhxXuHKp4uFCOOtkWIQGCp5-LPXAleT7w-8jYvOSwN_nR0fTd4QroUeaCbm0yVR1R5r4lDmjCj56Fb90GUE4r2UJkJ-ZIKVWIclPOVziYcqQIgU_FYC8b4FLxKOHuxBV-5SR2uqlKQ8K08xf4bwiyfNrhcBQcEQsoWd07m9zbEPdWw_R5ZljjN7k0TzQSz2C6pAz-b4VSwGHFO70AqTG-eNqPNBZQdbTf2YPlEzkYFLEU7KAtcuKTfBoOY6hERBTSJhD7_p9Wy7Hy6dpe6rNnLdBOPeBihkuMNlCfmNv7-1sNdm2uuEEWteN5qx7aqTQpswdh-hIeuvuuvitRpjEY2RhLvk36C1dsEkiql-4srX4aNe_nRWicgApocsD122FnAGkelbDLEN29iW0IdOVoqYeWK0o4edpSdLQkqRI1vMFY8_OqjT1VY6fhQllgcB-uzwoBD05R7OyY5cxK9xM4ERIEfqrLftTAMSRYoV35qNYxxMCzoAMEBcqhzX0-GFp9gZLMfnYujFxZlGBY0BIGmtoNvvzKukXj-rDwIA5RHuTRzZ7ueODbvu9sGlpMu3KaykeLkNQm8XySoZqshu4A1LG3Mz5OTEr-Sd42i_gw4w_3_qcVRLVQ1gOUsHHqDrif9krZqg3Sf8aOVXaQCmLMPPo2BDPBAUHOvD_8=w707-h904-no?authuser=0" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Name: Vo Anh Hao
 
-### Markdown
+- Date of birth: 06/02/2003
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Hometown: Dong Nai,VietNam
 
-```markdown
-Syntax highlighted code block
+- Studying at: Ho Chi Minh University of Information and Technology
 
-# Header 1
-## Header 2
-### Header 3
+- Major: Computer Science
 
-- Bulleted
-- List
+- Class: KHMT2021
 
-1. Numbered
-2. List
+- Hobbies: Listen to music, Playing game, Watch movie,...
+### Education
 
-**Bold** and _Italic_ and `Code` text
+- 2018 - 2021: Study at Nguyen Trai high school
 
-[Link](url) and ![Image](src)
-```
+- 2021 - Now: Ho Chi Minh University of Information and Technology
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### My skill
 
-### Jekyll Themes
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" height ="50px" width = "50px" border-radius="50%"></img> 
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" height ="50px" width = "50px" ></img> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/voanhhao3830/introduce/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact me
 
-### Support or Contact
+<a href="https://www.facebook.com/Heno0602/" > 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" height ="50px" width = "50px"></img></a>
+<a href="https://www.instagram.com/_hao3830/">
+  <img src ="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" height = "50px" width = "50px"></img> </a>
+<a href="https://www.linkedin.com/in/hào-võ-5770b3227/">
+<img src ="https://na.panasonic.com/ca/sites/default/files/2018-10/linkedin-icon.png" height = "50px" width = "50px"></img>
+</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
